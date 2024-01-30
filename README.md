@@ -1,7 +1,7 @@
 
 # Kroman
 
-Kroman is ultimate Korean hangul romanization tool. It has a lot of
+Kroman is ultimate Korean hangul romanization tool. It has a lot of 
 implementations.
 
 This is the Command line tool.
